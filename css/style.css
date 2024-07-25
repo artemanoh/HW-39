@@ -1,0 +1,17 @@
+.header {
+  background-color: rgb(250, 249, 247);
+}
+
+.modal-content {
+  padding: 20px;
+}
+
+.col-md-6{
+    width: 100%;
+}
+
+
+
+.card{
+    width: 200px;
+}
